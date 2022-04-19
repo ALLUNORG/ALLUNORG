@@ -2,7 +2,7 @@
 @ALLUNORG [All Union Organization]
 
 
-<@--
+<!--
 - 👋 Hi, I’m @ALLUNORG [All Union Organization]
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
